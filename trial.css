@@ -1,0 +1,52 @@
+
+
+
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+}
+.navbar-brand img
+{
+    height: 80px;
+    padding-left: 10px;
+    
+}
+.navbar-brand li 
+{
+    padding: 0 10px;
+
+}
+.navbar-brand li a
+{
+    float: right;
+    text-align: left;
+    
+}
+#nav-bar ul li a:hover
+{
+    color: #ff1818!important;
+}
+.navbar{
+    background: black!important
+    ;
+}
+.nav-link{
+    color:white!important;
+    font-size: large;
+    font-weight: 600;
+}
+.navbar-nav a:hover{
+    color: maroon;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/motor1.jpg);
+}
+.oh{
+    color: white;
+    background-color: black;
+}
+
+

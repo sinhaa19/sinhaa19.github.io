@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css?family=Beth+Ellen&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+
+
+
+
+
+
+
+/*-----NAVIGATION---*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+}
+.navbar-brand img
+{
+    height: 80px;
+    padding-left: 10px;
+    
+}
+.navbar-brand li 
+{
+    padding: 0 10px;
+
+}
+.navbar-brand li a
+{
+    float: right;
+    text-align: left;
+    
+}
+#nav-bar ul li a:hover
+{
+    color: #ff1818!important;
+}
+.navbar{
+    background: black!important
+    ;
+}
+.nav-link{
+    color:white!important;
+    font-size: large;
+    font-weight: 600;
+}
+.carousel-caption
+{
+    top: 70%;
+    transform: translateY(-40%);
+    bottom: initial!important;
+}
+.carousel-caption h1{
+    color: white;
+    font-size: 60px;
+    font-family: 'Beth Ellen', cursive;
+}
+.carousel-caption p{
+    font-size: 20px;
+}
+.oh{
+    color: white;
+    background-color: black;
+}
+.carousel-caption h5{
+    color: maroon;
+    font-size: 60px;
+    font-family: 'Anton', sans-serif;
+}
+.carousel-caption h4{
+    font-size: 40px;
+}

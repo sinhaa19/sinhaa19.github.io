@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Vast+Shadow&display=swap');
+
+
+
+/*-----NAVIGATION---*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+}
+.navbar-brand img
+{
+    height: 80px;
+    padding-left: 10px;
+    
+}
+.navbar-brand li 
+{
+    padding: 0 10px;
+
+}
+.navbar-brand li a
+{
+    float: right;
+    text-align: left;
+    
+}
+#nav-bar ul li a:hover
+{
+    color: #ff1818!important;
+}
+.navbar{
+    background: black!important
+    ;
+}
+.nav-link{
+    color:white!important;
+    font-size: large;
+    font-weight: 600;
+}
+
+
+.oh{
+    color: white;
+    background-color: black;
+}
+.carousel-caption
+{
+    top: 70%;
+    transform: translateY(-40%);
+    bottom: initial!important;
+}
+
+
+.carousel-caption h4{
+    font-size: 40px;
+}
+.carousel-caption p{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.carousel-caption h5{
+    color: white;
+    font-size: 60px;
+    font-family: 'Vast Shadow', cursive;
+}

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Frijole&display=swap');
+
+
+
+
+
+
+
+/*-----NAVIGATION---*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+}
+.navbar-brand img
+{
+    height: 80px;
+    padding-left: 10px;
+    
+}
+.navbar-brand li 
+{
+    padding: 0 10px;
+
+}
+.navbar-brand li a
+{
+    float: right;
+    text-align: left;
+    
+}
+#nav-bar ul li a:hover
+{
+    color: #ff1818!important;
+}
+.navbar{
+    background: black!important
+    ;
+}
+.nav-link{
+    color:white!important;
+    font-size: large;
+    font-weight: 600;
+}
+.col-md-3{
+  text-align: left;
+  float: right;  
+}
+.cont h1{
+    text-align: center;
+    font-family: 'Monoton', cursive;
+}
+.cont h3{
+    color: maroon;
+}
+.cont p{
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+}
+.carousel-caption
+{
+    top: 70%;
+    transform: translateY(-40%);
+    bottom: initial!important;
+}
+.carousel-caption h5{
+    color: burlywood;
+    font-size: 60px;
+    font-family: 'Frijole', cursive;
+}
+
+
+
+
+
+
+
+
+
+

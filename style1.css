@@ -1,0 +1,83 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Kumar+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sarina&display=swap&subset=latin-ext');
+
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+/*-----NAVIGATION---*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+}
+.navbar-brand img
+{
+    height: 80px;
+    padding-left: 10px;
+    
+}
+.navbar-brand li 
+{
+    padding: 0 10px;
+
+}
+.navbar-brand li a
+{
+    float: right;
+    text-align: left;
+    
+}
+#nav-bar ul li a:hover
+{
+    color: #ff1818!important;
+}
+.navbar{
+    background: black!important
+    ;
+}
+.nav-link{
+    color:white!important;
+    font-size: large;
+    font-weight: 600;
+}
+
+
+.carousel-caption
+{
+    top: 70%;
+    transform: translateY(-40%);
+    bottom: initial!important;
+}
+ .carousel-caption h5{
+
+font-family: 'Kumar One', cursive;
+font-size: 70px;
+color: maroon;
+ }
+.carousel-caption h4{
+    color: blanchedalmond;
+    font-size: 80px;
+    font-family: 'Sarina', cursive;
+
+}
+.carousel-caption p{
+    font-size: 35px;
+    color: wheat;
+    font-weight: 700;
+}
+
+ 
+
+.oh{
+    color: white;
+    background-color: black;
+}

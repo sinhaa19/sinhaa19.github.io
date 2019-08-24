@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Sancreek&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Keania+One&display=swap');
+
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+}
+.navbar-brand img
+{
+    height: 80px;
+    padding-left: 10px;
+    
+}
+.navbar-brand li 
+{
+    padding: 0 10px;
+
+}
+.navbar-brand li a
+{
+    float: right;
+    text-align: left;
+    
+}
+#nav-bar ul li a:hover
+{
+    color: #ff1818!important;
+}
+.navbar{
+    background: black!important
+    ;
+}
+.nav-link{
+    color:white!important;
+    font-size: large;
+    font-weight: 600;
+}
+
+.oh{
+    color: white;
+    background-color: black;
+}
+.carousel-caption
+{
+    top: 40%;
+    left: 20%;
+    transform: translateY(-90%);
+    bottom: initial!important;
+}
+.carousel-caption h5{
+    color: yellow;
+    font-size: 60px;
+    font-family: 'Sancreek', cursive;
+    
+    text-align: left;
+}
+.carousel-caption h4{
+    color: wheat;
+    font-size: 60;
+    font-family: 'Keania One', cursive;
+
+}
